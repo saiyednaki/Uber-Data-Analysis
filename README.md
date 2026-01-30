@@ -1,6 +1,6 @@
 # Uber-Data-Analysis
 
-**Maximizing Revenue for Taxi Drivers Through Payment Type 🚖💳**
+**Maximizing Revenue for Taxi Drivers Through Payment Type **
 **Project Overview
 **
 
