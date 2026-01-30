@@ -1,8 +1,7 @@
 # Uber-Data-Analysis
 
-**Maximizing Revenue for Taxi Drivers Through Payment Type **
-**Project Overview
-**
+**Maximizing Revenue for Taxi Drivers Through Payment Type 
+Project Overview**
 
 In the highly competitive taxi booking industry, maximizing revenue is critical for both long-term business sustainability and driver satisfaction.
 This project uses data-driven analysis to examine whether payment type (card vs cash) influences fare amounts, and explores how encouraging certain payment methods can help increase driver revenue without harming customer experience.
