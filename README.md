@@ -104,4 +104,5 @@ Tools & Technologies
   - Data Visualization (optional dashboards)
 
 **Conclusion**
+
 This project demonstrates that payment method influences fare amount, with card payments consistently generating higher revenue. Strategic nudging toward card payments can meaningfully increase driver earnings without compromising customer experience.
